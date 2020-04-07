@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Love on Kruna Site</title>
+    <link>http://example.org/tags/love/</link>
+    <description>Recent content in Love on Kruna Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/love/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Number one</title>
+      <link>http://example.org/posts/broj-jedan/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/broj-jedan/</guid>
+      <description>Intro Forever alone forever at home. I have unfortunately made so many good friends after ending up at the cemetery. Each friend deeply burried under the frozen earth. I have never had so many friends talk back to me while my head was laying on the cold ground. It was absolutely amazing.
+I talked and they talked back, I reached and they reached back, pulling me into their cold and broken embrace.</description>
+    </item>
+    
+  </channel>
+</rss>

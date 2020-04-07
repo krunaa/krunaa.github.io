@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Krunin sajt</title>
+    <link>http://example.org/hr/posts/</link>
+    <description>Recent content in Posts on Krunin sajt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hr-HR</language>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/hr/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broj dva</title>
+      <link>http://example.org/hr/posts/broj-dva/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/hr/posts/broj-dva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broj jedan</title>
+      <link>http://example.org/hr/posts/broj-jedan/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/hr/posts/broj-jedan/</guid>
+      <description>Uvod Zauvijek sam i zauvijek kod kuće.
+def tata(c, d): return c + d </description>
+    </item>
+    
+  </channel>
+</rss>
